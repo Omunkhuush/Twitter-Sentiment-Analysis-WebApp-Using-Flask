@@ -1,5 +1,9 @@
 # Twitter-Sentiment-Analysis-WebApp-Using-Flask
 
+# Description
+
+The Twitter Sentiment Analysis Web App is a powerful tool that utilizes Flask, a lightweight web framework in Python, to analyze the sentiment of tweets. With this web application, users can enter a keyword or hashtag of interest and receive real-time sentiment analysis results.
+
 # Installation
 ```
 git clone https://github.com/Omunkhuush/Twitter-Sentiment-Analysis-WebApp-Using-Flask.git
