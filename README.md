@@ -24,3 +24,8 @@ python App.py
 ![terminal](https://github.com/Omunkhuush/Twitter-Sentiment-Analysis-WebApp-Using-Flask/assets/73123564/3abb7162-1f2e-4377-a256-c42a4092a43d)
 
 ![searchTweet](https://github.com/Omunkhuush/Twitter-Sentiment-Analysis-WebApp-Using-Flask/assets/73123564/52fe2e53-fca2-4210-bd1c-649d73ef18f9)
+
+**You can search for something on Twitter and see what people think about it.**
+for example: COVID-19
+
+![result](https://github.com/Omunkhuush/Twitter-Sentiment-Analysis-WebApp-Using-Flask/assets/73123564/df48c86b-f9c9-447e-9ad1-e2dedbd8f8f0)
